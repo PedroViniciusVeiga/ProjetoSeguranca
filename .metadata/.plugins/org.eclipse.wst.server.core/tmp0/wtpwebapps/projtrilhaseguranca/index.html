@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="js/envia.js"></script>
+<title>Autenticação de Usuário</title>
+</head>
+<body>
+	<div class="divlogin">
+		<font face="arial">
+			<fieldset style="width: 300px; margin: 0 auto;">
+
+				<legend>Login</legend>
+
+				<form name="frmLogin" action="autenticar" method="POST" onsubmit="return ValidaDados()">
+					<br> <label>Usuário</label> <input type="text" name="usuario">
+					<br> <br> <label>Senha</label> <input type="password"
+						name="senha"> <br>
+					<br>
+
+					<button type="submit">Enviar</button>
+
+				</form>
+			</fieldset>
+		</font>
+	</div>
+</body>
+</html>

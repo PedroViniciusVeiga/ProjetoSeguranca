@@ -1,0 +1,52 @@
+package AutenticacaoJdbcDao;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+
+import ArmazenaDadosUsuario.ArmaDadosUsuario;
+
+public class JDBCAutenticacaoDAO {
+
+	private Connection conexao;
+	public JDBCAutenticacaoDAO(Connection conexao) {
+		
+		this.conexao = conexao;
+	}
+	
+	public boolean consultar(ArmaDadosUsuario dadosautentica) {
+		
+		
+		
+		try {
+			System.out.println(dadosautentica.getSenha()+dadosautentica.getUsuario());
+			
+		}catch (Exception e) {
+			return false;
+		}
+		return true;
+	}
+	}
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+

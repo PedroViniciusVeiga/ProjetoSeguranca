@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\SENAI\Desktop\ProjetoSeguranca\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2073601270.index
+1558949337.index
+1080595052.index
+2045680263.index
+77518371.index
+3092941296.index

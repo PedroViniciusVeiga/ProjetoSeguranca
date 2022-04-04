@@ -1,0 +1,16 @@
+127.0.0.1 - - [23/Mar/2022:18:19:03 -0300] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:19:03 -0300] "GET /projtrilhaseguranca/ HTTP/1.1" 200 592
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:19:29 -0300] "GET /projtrilhaseguranca/ HTTP/1.1" 200 592
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:19:29 -0300] "GET /favicon.ico HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:19:38 -0300] "POST /projtrilhaseguranca/autenticar HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:19:38 -0300] "GET /projtrilhaseguranca/index.html HTTP/1.1" 200 592
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:19:41 -0300] "POST /projtrilhaseguranca/autenticar HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:19:41 -0300] "GET /projtrilhaseguranca/index.html HTTP/1.1" 304 -
+127.0.0.1 - - [23/Mar/2022:18:21:29 -0300] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:22:28 -0300] "GET /projtrilhaseguranca/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:22:33 -0300] "POST /projtrilhaseguranca/autenticar HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:22:33 -0300] "GET /projtrilhaseguranca/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:23:14 -0300] "POST /projtrilhaseguranca/autenticar HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:23:14 -0300] "GET /projtrilhaseguranca/principal.html HTTP/1.1" 200 174
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:33:09 -0300] "POST /projtrilhaseguranca/autenticar HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2022:18:33:09 -0300] "GET /projtrilhaseguranca/principal.html HTTP/1.1" 304 -
