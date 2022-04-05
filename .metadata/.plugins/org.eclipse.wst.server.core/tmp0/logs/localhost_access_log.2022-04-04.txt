@@ -1,0 +1,8 @@
+127.0.0.1 - - [04/Apr/2022:20:55:14 -0300] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:20:55:14 -0300] "GET /projtrilhaseguranca/ HTTP/1.1" 200 634
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:20:55:14 -0300] "GET /projtrilhaseguranca/js/envia.js HTTP/1.1" 200 524
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:20:55:27 -0300] "GET /projtrilhaseguranca/ HTTP/1.1" 200 634
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:20:55:27 -0300] "GET /projtrilhaseguranca/js/envia.js HTTP/1.1" 200 524
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:20:55:27 -0300] "GET /favicon.ico HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:20:55:35 -0300] "GET /projtrilhaseguranca/Acesso/principal.html HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Apr/2022:20:55:35 -0300] "GET /projtrilhaseguranca//erro.html HTTP/1.1" 200 212
